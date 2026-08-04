@@ -1,0 +1,37 @@
+class:
+  class_name: 友情鏈接
+  link_list:
+    1:
+      name: kukuboy
+      link: http://blog.dingyahui.top.com/
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: 本博客链接
+    2:
+        name: kukuboy
+        link: https://kukuboy.coding.net/
+        avatar: https://cdn.xxxxx.top/avatar.png
+        descr: 博主coding地址
+    3:
+      name: kukuboy
+      link: https://kukuboy.github.io/
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: 博主github地址
+    4:
+      name: 简书
+      link: https://www.jianshu.com/u/eea8f3d379da
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: 博主简书主页
+
+  class2:
+    class_name: 鏈接無效
+    link_list:
+      1:
+        name: 夢xxx
+        link: https://blog.xxx.com
+        avatar: https://xxxx/avatar.png
+        descr: xxxx
+      2:
+        name: xx
+        link: https://www.axxxx.cn/
+        avatar: https://x
+        descr: xx
